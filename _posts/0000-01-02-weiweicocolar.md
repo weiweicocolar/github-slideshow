@@ -1,6 +1,6 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-This time will be OK.
+--
+I can edit it now.
 Use the left arrow to go back!
